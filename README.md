@@ -1,14 +1,5 @@
 ## Cronômetro
 
-## Login
-![login](/assets/timer.jpg)
-
-![login](/assets/3.jpg)
-
-![login](/assets/1.jpg)
-
-![login](/assets/2.jpg)
-
 ## Instruções de uso
 
 Abra o diretório cronometro no terminal
@@ -23,4 +14,13 @@ Dentro do diretório cronometro, digite expo install para instalar as dependênc
 
 Use npm start para rodar o expo
 
+## Fotos
+
+![login](/assets/timer.jpg)
+
+![login](/assets/3.jpg)
+
+![login](/assets/1.jpg)
+
+![login](/assets/2.jpg)
 
